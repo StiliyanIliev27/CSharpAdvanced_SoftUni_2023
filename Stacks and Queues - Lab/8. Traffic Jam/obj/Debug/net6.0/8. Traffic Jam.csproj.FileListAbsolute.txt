@@ -1,0 +1,15 @@
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net6.0\8. Traffic Jam.exe
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net6.0\8. Traffic Jam.deps.json
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net6.0\8. Traffic Jam.runtimeconfig.json
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net6.0\8. Traffic Jam.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\8. Traffic Jam\bin\Debug\net6.0\8. Traffic Jam.pdb
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net6.0\8. Traffic Jam.csproj.AssemblyReference.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net6.0\8. Traffic Jam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net6.0\8. Traffic Jam.AssemblyInfoInputs.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net6.0\8. Traffic Jam.AssemblyInfo.cs
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net6.0\8. Traffic Jam.csproj.CoreCompileInputs.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net6.0\8. Traffic Jam.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net6.0\refint\8. Traffic Jam.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net6.0\8. Traffic Jam.pdb
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net6.0\8. Traffic Jam.genruntimeconfig.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\8. Traffic Jam\obj\Debug\net6.0\ref\8. Traffic Jam.dll

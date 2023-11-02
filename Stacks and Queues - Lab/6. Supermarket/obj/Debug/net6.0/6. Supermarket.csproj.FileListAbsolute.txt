@@ -1,0 +1,15 @@
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\6. Supermarket\bin\Debug\net6.0\6. Supermarket.exe
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\6. Supermarket\bin\Debug\net6.0\6. Supermarket.deps.json
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\6. Supermarket\bin\Debug\net6.0\6. Supermarket.runtimeconfig.json
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\6. Supermarket\bin\Debug\net6.0\6. Supermarket.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\6. Supermarket\bin\Debug\net6.0\6. Supermarket.pdb
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net6.0\6. Supermarket.csproj.AssemblyReference.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net6.0\6. Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net6.0\6. Supermarket.AssemblyInfoInputs.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net6.0\6. Supermarket.AssemblyInfo.cs
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net6.0\6. Supermarket.csproj.CoreCompileInputs.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net6.0\6. Supermarket.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net6.0\refint\6. Supermarket.dll
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net6.0\6. Supermarket.pdb
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net6.0\6. Supermarket.genruntimeconfig.cache
+D:\Programming\SoftUni\GitHubRepositories\CSharpAdvanced_SoftUni_2023\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net6.0\ref\6. Supermarket.dll
