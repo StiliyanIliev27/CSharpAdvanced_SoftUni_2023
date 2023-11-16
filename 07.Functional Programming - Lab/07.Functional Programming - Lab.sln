@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sort Even Numbers", "01. Sort Even Numbers\01. Sort Even Numbers.csproj", "{EEE38590-B45F-4B40-8585-FA351F29A33D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Sum Numbers", "02. Sum Numbers\02. Sum Numbers.csproj", "{8BB0AA5A-E880-41C9-ABD0-E2FC195111A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEE38590-B45F-4B40-8585-FA351F29A33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE38590-B45F-4B40-8585-FA351F29A33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE38590-B45F-4B40-8585-FA351F29A33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE38590-B45F-4B40-8585-FA351F29A33D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BB0AA5A-E880-41C9-ABD0-E2FC195111A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB0AA5A-E880-41C9-ABD0-E2FC195111A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB0AA5A-E880-41C9-ABD0-E2FC195111A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB0AA5A-E880-41C9-ABD0-E2FC195111A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {292C41F1-7260-4F1E-BC5A-201AFFD2751A}
+	EndGlobalSection
+EndGlobal
